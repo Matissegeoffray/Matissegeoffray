@@ -12,7 +12,7 @@ I'm a 3rd year engineering student at ESILV, passionate about AI, programming, a
 ## Skills
 
 - **Languages:** Python, C++ and C#
-- 
+  
 ## 🚀 Most fufilling projects
 
 ### 🧠 IBM TORCS Racing AI
