@@ -6,7 +6,7 @@ I'm a 3rd year engineering student at ESILV, passionate about AI, programming, a
 
 - 🎓 Engineering Student
 - 🌐 AI & ML Enthusiast  
-- 🏎️ Car Enthiuiast
+- 🏎️ Car Enthuisat
 
 ## Skills
 
