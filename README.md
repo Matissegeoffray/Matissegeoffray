@@ -11,10 +11,10 @@ I'm a 3rd year engineering student at ESILV, passionate about AI, programming, a
 
 ## Skills
 
-- **Languages:** Python, C, HTML, CSS
+- **Languages:** Python, C++ and C#
 - **Tools:** Git, TensorFlow, TORCS
 
-## 🚀 Major Projects
+## 🚀 Most fufilling projects
 
 ### 🧠 IBM TORCS Racing AI
 Building an AI-driven race car using IBM Granite models and the TORCS simulator.
