@@ -14,7 +14,7 @@ I'm a 3rd year engineering student at ESILV, passionate about AI, programming, a
   
 ## 🚀 Most fufilling projects
 
-### 🧠 IBM TORCS Racing AI
+### 🏎️ IBM TORCS Racing AI
 This project implements a rule-based autonomous driving agent for TORCS (The Open Racing Car Simulator) around a the Corkscrew circuit. Best time 1:26:87
 
 ### 🌿 CO2 Emission Prediction
