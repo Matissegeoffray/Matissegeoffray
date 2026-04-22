@@ -15,14 +15,17 @@ I'm a 3rd year engineering student at ESILV, passionate about AI, programming, a
 ## 🚀 Most fufilling projects
 
 ### 🏎️ IBM TORCS Racing AI
-A python project that implements a rule-based autonomous driving agent for TORCS (The Open Racing Car Simulator) around a the Corkscrew circuit. Best time 1:26:87
-
-### 🌿 CO2 Emission Prediction
-Predicting vehicle CO2 emissions (g/km) from Canadian fuel consumption data using a linear regression model built entirely from scratch with NumPy (no scikit-learn for the model itself).
+A python project that implements a rule-based autonomous driving agent for TORCS (The Open Racing Car Simulator) around a the Corkscrew circuit. 
+Competition IBM AI Racing League -> Results in inJuly
+Best time for now: 1:26:87 
 
 ### 🗡️ AlterDune 
 A C++ turn-based RPG inspired by Undertale's mercy system, where every encounter offers a choice: fight or forgive.
 
 ### 🤖 Ultimate Tic-Tac-Toe
 An Ultimate Tic-Tac-Toe engine built for AI vs AI competition, where strategic agents battle across nested boards to claim victory.
+School Competition -> Results end of May
 
+### 🏠Aibnb price prediction
+Using ML models to predict the price of Airbnb based on diffrent aspect (number of bedroom, location...)
+School Competition -> Results in May
