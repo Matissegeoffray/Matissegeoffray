@@ -57,5 +57,5 @@ Minimax agent for Ultimate Tic-Tac-Toe (nested 3×3 boards).
 ## 📫 Contact
 
 - 📧 matisse.geoffray@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/matisse-geoffray)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matisse-geoffray-980a41250/)  
 - 📄 [CV on request]
