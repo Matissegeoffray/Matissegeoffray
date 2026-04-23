@@ -1,7 +1,7 @@
 # Hi, I'm Matisse 👋
 
 🎓 **3rd-year Engineering Student** at ESILV (Paris)  
-🇫🇷🇸🇬 Bilingual French / English — 15 years in Singapore  
+🇫🇷🇸🇬 Bilingual French / English  
 🔍 **Looking for a 2-month internship — June–July 2026 — Paris or Singapore**  
 📩 matisse.geoffray@gmail.com
 
