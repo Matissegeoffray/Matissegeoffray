@@ -48,12 +48,6 @@ Minimax agent for Ultimate Tic-Tac-Toe (nested 3×3 boards).
 `Python` · School competition  
 → Results end of May 2026
 
-### 🗡️ [AlterDune — Turn-based RPG](https://github.com/Matissegeoffray/alterdune)
-C++ RPG inspired by Undertale's mercy system: fight or forgive.  
-`C++` · Personal project
-
----
-
 ## 📊 Other Work
 - **CO₂ Emissions Prediction** — Kaggle competition on automotive dataset
 - **Vinci Eco-Drive** — Formula Student, front wing design (CAD + CNC + ANSYS)
