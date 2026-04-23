@@ -38,7 +38,7 @@ ML pipeline predicting Airbnb listing prices.
 `Python` · `scikit-learn` · `LightGBM` · `Optuna` · `SHAP`  
 → **R² test = 0.715** on 80/20 split (baseline: 0.31)
 
-### 🏎️ [IBM TORCS Racing AI](https://github.com/Matissegeoffray/SwEng26-IBM-TORCS)
+### 🏎️ [IBM TORCS Racing AI](https://github.com/Matissegeoffray/gym_torcs)
 Autonomous driving agent for the TORCS racing simulator.  
 `Python` · Competition IBM AI Racing League  
 → **Best lap: 1:26.87** on Corkscrew circuit · Finals July 2026
