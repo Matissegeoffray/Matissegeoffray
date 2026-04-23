@@ -49,7 +49,6 @@ Minimax agent for Ultimate Tic-Tac-Toe (nested 3×3 boards).
 → Results end of May 2026
 
 ## 📊 Other Work
-- **CO₂ Emissions Prediction** — Kaggle competition on automotive dataset
 - **Vinci Eco-Drive** — Formula Student, front wing design (CAD + CNC + ANSYS)
 - **Mechanical spider (octopod)** — complete CAD/CAM/CNC project
 
