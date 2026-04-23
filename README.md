@@ -1,37 +1,68 @@
-# Hi there, I'm Matisse! 👋
+# Hi, I'm Matisse 👋
+
+🎓 **3rd-year Engineering Student** at ESILV (Paris)  
+🇫🇷🇸🇬 Bilingual French / English — 15 years in Singapore  
+🔍 **Looking for a 2-month internship — June–July 2026 — Paris or Singapore**  
+📩 matisse.geoffray@gmail.com
+
+---
 
 ## About Me
 
-I'm a 3rd year engineering student at ESILV, passionate about AI, programming, and cars.
+I work at the intersection of **Machine Learning** and **Mechanical Engineering**.  
+Currently **Aero Technical Director** of the [Vinci Eco-Drive Formula Student] team,  
+and building ML pipelines from preprocessing to SHAP interpretation.
 
-- 🎓 Engineering Student
-- 🌐 AI & ML Enthusiast  
-- 🏎️ Car Enthuisat
+---
 
-## Skills
+## 🛠️ Stack
 
-- **Languages:** Python, C++ and C#
-  
-## 🚀 Most fufilling projects
+**Machine Learning / Data**  
+`Python` · `scikit-learn` · `LightGBM` · `Optuna` · `SHAP` · `pandas` · `NumPy` · `Matplotlib`
 
-### 🏎️ IBM TORCS Racing AI (on going project)
-A python project that implements a rule-based autonomous driving agent for TORCS (The Open Racing Car Simulator) around a the Corkscrew circuit. 
+**Programming**  
+`Python` · `C++` · `C#`
 
-Competition IBM AI Racing League -> Results in inJuly
+**CAD / Simulation**  
+`CATIA V5` · `SolidWorks` · `Fusion 360` · `3DEXPERIENCE` · `ANSYS`
 
-Best time for now: 1:26:87 
+**Tools**  
+`Git` · `Jupyter` · `VS Code` · `CNC machining`
 
-### 🗡️ AlterDune 
-A C++ turn-based RPG inspired by Undertale's mercy system, where every encounter offers a choice: fight or forgive.
+---
 
-### 🤖 Ultimate Tic-Tac-Toe (on going project)
-An Ultimate Tic-Tac-Toe engine built for AI vs AI competition, where strategic agents battle across nested boards to claim victory.
+## 🚀 Featured Projects
 
-School Competition -> Results end of May
+### 🏠 [Airbnb Price Prediction](https://github.com/Matissegeoffray/airbnb-price-prediction)
+ML pipeline predicting Airbnb listing prices.  
+`Python` · `scikit-learn` · `LightGBM` · `Optuna` · `SHAP`  
+→ **R² test = 0.715** on 80/20 split (baseline: 0.31)
 
-### 🏠Aibnb price prediction (on going project)
-Using ML models to predict the price of Airbnb based on diffrent aspect (number of bedroom, location...)
+### 🏎️ [IBM TORCS Racing AI](https://github.com/Matissegeoffray/SwEng26-IBM-TORCS)
+Autonomous driving agent for the TORCS racing simulator.  
+`Python` · Competition IBM AI Racing League  
+→ **Best lap: 1:26.87** on Corkscrew circuit · Finals July 2026
 
-School Competition -> Results in May
+### 🤖 [Ultimate Tic-Tac-Toe — AI vs AI](https://github.com/Matissegeoffray/ultimate-tic-tac-toe)
+Minimax agent for Ultimate Tic-Tac-Toe (nested 3×3 boards).  
+`Python` · School competition  
+→ Results end of May 2026
 
-Split 80/20 train/test -> Best Test R² for now is 0.715
+### 🗡️ [AlterDune — Turn-based RPG](https://github.com/Matissegeoffray/alterdune)
+C++ RPG inspired by Undertale's mercy system: fight or forgive.  
+`C++` · Personal project
+
+---
+
+## 📊 Other Work
+- **CO₂ Emissions Prediction** — Kaggle competition on automotive dataset
+- **Vinci Eco-Drive** — Formula Student, front wing design (CAD + CNC + ANSYS)
+- **Mechanical spider (octopod)** — complete CAD/CAM/CNC project
+
+---
+
+## 📫 Contact
+
+- 📧 matisse.geoffray@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/matisse-geoffray)  
+- 📄 [CV on request]
