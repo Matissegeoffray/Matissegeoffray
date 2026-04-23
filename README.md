@@ -10,7 +10,7 @@
 ## About Me
 
 I work at the intersection of **Machine Learning** and **Mechanical Engineering**.  
-Currently **Aero Technical Director** of the [Vinci Eco-Drive Formula Student](https://vinciecodrive.fr/) team,  
+Currently **Aero Technical Director** of the [Vinci Eco-Drive Formula Student](https://www.instagram.com/vinciecodrive/) team,  
 and building ML pipelines from preprocessing to SHAP interpretation.
 
 ---
